@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo SP FHD [H265]">
+    <display-name lang="pt">Globo SP FHD [H265]</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
+  </channel>
+  <programme start="20220210003000 +0000" stop="20220210014000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Roney é levado da casa de Santiago pelos seguranças. Santiago diz a Érica que a única forma de Stephany ficar livre de Roney é indo à polícia. As filhas de Santiago descobrem que Stephany está trabalhando na casa do pai. Thaiane demonstra interesse por Ravi, e Lara incentiva. Ilana confessa a Rebeca que sentiu ciúmes de Gabriela. Breno se hospeda na casa do pai. Ravi diz a Lara que sente que Christian/Renato não é uma pessoa de confiança. Elenice flagra Christian/Renato beijando Lara e revela que ele continua casado. Lara acusa Christian/Renato de ter mentido para ela.(n)</desc>
+  </programme>
+  <programme start="20220210014000 +0000" stop="20220210023500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20220210023500 +0000" stop="20220210041500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Cinema Do Líder - Aruanas - 2ª Temporada</title>
+    <title lang="en">Aruanas - 2ª Temporada</title>
+    <desc lang="pt">As ativistas da ONG Aruana, Natalie, Luiza, Verônica e Clara, estão de volta e agora enfrentam uma epidemia silenciosa: a poluição urbana.(n)</desc>
+  </programme>
+  <programme start="20220210041500 +0000" stop="20220210050500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20220210050500 +0000" stop="20220210070000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Olimpíadas De Inverno 2022</title>
+    <desc lang="pt">Cobertura das Olimpíadas De Inverno 2022.(n)</desc>
+  </programme>
+  <programme start="20220210070000 +0000" stop="20220210090000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20220210090000 +0000" stop="20220210113000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20220210113000 +0000" stop="20220210123000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20220210123000 +0000" stop="20220210134500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20220210134500 +0000" stop="20220210150000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20220210150000 +0000" stop="20220210160000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20220210160000 +0000" stop="20220210162500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20220210162500 +0000" stop="20220210174500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+  </programme>
+  <programme start="20220210174500 +0000" stop="20220210182500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">O Cravo E A Rosa</title>
+    <desc lang="pt">Comédia romântica inspirada no clássico 'A Megera Domada', de William Shakespeare, a novela é ambientada na São Paulo dos anos 1920 e narra o tumultuado romance entre o rude caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+  </programme>
+  <programme start="20220210182500 +0000" stop="20220210200500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Sessão da Tarde - Em Meus Sonhos</title>
+    <title lang="en">In My Dreams</title>
+    <desc lang="pt">Natalie e Nick são duas pessoas que definitivamente não têm sorte no amor. Determinados a mudar os seus status de relacionamento, os dois, coincidentemente, realizam um desejo ao jogar moedas em uma fonte. Logo, os dois começam a sonhar um com o outro; Natalie e Nick ficam enamorados através de seus delírios. No entanto, eles terão que correr contra o tempo para concretizar o amor platônico, uma vez que a profecia diz que eles só têm uma semana para ficarem juntos.(n)</desc>
+  </programme>
+  <programme start="20220210200500 +0000" stop="20220210212500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20220210212500 +0000" stop="20220210221000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+  </programme>
+  <programme start="20220210221000 +0000" stop="20220210224000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20220210224000 +0000" stop="20220210233000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+    <desc lang="pt">Na trama, Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+  </programme>
+  <programme start="20220210233000 +0000" stop="20220211003000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20220211003000 +0000" stop="20220211013000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Lara se afasta de Christian/Renato. Christian/Renato chega em casa embriagado e discute com Bárbara. Ana Virgínia desarma a resistência de Bárbara em fazer terapia. Elenice diz a Teodoro que percebeu que o filho está apaixonado por Lara. Mel vê Helena no atendimento on-line com Nicole, e pergunta à mãe o que ela estava falando com a namorada de Paco. Helena avisa a Paco que Nicole sabe que eles foram casados. Paco termina seu namoro com Nicole. Felipe deixa Júlia na clínica. Túlio flagra Rebeca beijando Felipe.(n)</desc>
+  </programme>
+  <programme start="20220211013000 +0000" stop="20220211024500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20220211024500 +0000" stop="20220211032500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Lady Night</title>
+    <desc lang="pt">O ‘Lady Night’ desta quinta-feira, dia 11, será regozijante! Tatá Werneck recebe Gil do Vigor no programa.(n)</desc>
+  </programme>
+  <programme start="20220211032500 +0000" stop="20220211041500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20220211041500 +0000" stop="20220211070000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Olimpíadas De Inverno 2022</title>
+    <desc lang="pt">Cobertura das Olimpíadas De Inverno 2022.(n)</desc>
+  </programme>
+  <programme start="20220211070000 +0000" stop="20220211090000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20220211090000 +0000" stop="20220211113000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+  </programme>
+  <programme start="20220211113000 +0000" stop="20220211123000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20220211123000 +0000" stop="20220211134500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20220211134500 +0000" stop="20220211150000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20220211150000 +0000" stop="20220211160000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20220211160000 +0000" stop="20220211162500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia.(n)</desc>
+  </programme>
+  <programme start="20220211162500 +0000" stop="20220211174500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+  </programme>
+  <programme start="20220211174500 +0000" stop="20220211182500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">O Cravo E A Rosa</title>
+    <desc lang="pt">Comédia romântica inspirada no clássico 'A Megera Domada', de William Shakespeare, a novela é ambientada na São Paulo dos anos 1920 e narra o tumultuado romance entre o rude caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+  </programme>
+  <programme start="20220211182500 +0000" stop="20220211200500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Sessão da Tarde - Lanterna Verde</title>
+    <title lang="en">Green Lantern</title>
+    <desc lang="pt">Hal Jordan é um audacioso piloto de aviões que foge de qualquer responsabilidade. É assim que mantém a amizade com Carol Ferris, colega de infância e também piloto, que está prestes a assumir o comando da empresa do pai. Hal e Carol tiveram um caso no passado, que não seguiu em frente por causa dele. Um dia, a vida de Hal muda ao ser envolto em uma redoma verde e levado até um alienígena prestes a morrer, chamado Abin Sur. O extraterrestre lhe entrega um estranho anel e diz que ele foi escolhido, além de alertar sobre as responsabilidades de possuí-lo. Ao usá-lo Hal torna-se o Lanterna Verde, tendo condições de moldar a luz verde da forma como sua imaginação permitir. É apenas o início da jornada do herói, que viaja até o planeta OA para aprender a usar suas novas habilidades e tem como grande teste o temido Parallax.(n)</desc>
+  </programme>
+  <programme start="20220211200500 +0000" stop="20220211212000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Vale a Pena Ver de Novo - O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+  </programme>
+  <programme start="20220211212000 +0000" stop="20220211221000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+  </programme>
+  <programme start="20220211221000 +0000" stop="20220211224000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+  </programme>
+  <programme start="20220211224000 +0000" stop="20220211233000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+    <desc lang="pt">Na trama, Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+  </programme>
+  <programme start="20220211233000 +0000" stop="20220212003000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20220212003000 +0000" stop="20220212012500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">A história dos gêmeos Christian e Christofer, separados na primeira infância. Enquanto Christian cresce em um abrigo em Goiânia, Christofer é adotado por uma família abastada do Rio de Janeiro, passando a se chamar Renato.(n)</desc>
+  </programme>
+  <programme start="20220212012500 +0000" stop="20220212021000 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
+  </programme>
+  <programme start="20220212021000 +0000" stop="20220212025500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Sessão Globoplay - S.W.A.T.</title>
+    <desc lang="pt">Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.(n)</desc>
+  </programme>
+  <programme start="20220212025500 +0000" stop="20220212034500 +0000" channel="Globo SP FHD [H265]">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+</tv>
